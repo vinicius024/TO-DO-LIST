@@ -1,0 +1,81 @@
+.main {
+
+    background: #071E22;
+    width: 100%;
+    height: 760px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.Tittle {
+    color: #1D7874;
+    font-family: 'Playfair', sans-serif;
+    font-style: italic; 
+    font-weight: 900;
+
+    padding: 24px 0px 24px 0px;
+}
+
+.search-box {
+    background: none;
+    width: 100%;
+    height: 6%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0px 0px 36px 0px;
+}
+
+.search {
+    width: 370px;
+    height: 24px;
+
+    margin: 0px 12px 0px 0px;
+}
+
+.search-button {
+    background: #1D7874;
+    color: #FFFFFF;
+    border: none;
+    width: 100px;
+    height: 26px;
+
+    margin: 0px 0px 0px 0px;
+
+    cursor: pointer;
+}
+
+.card {
+    background: #679289;
+    width: 30%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+    margin: 0px 0px 36px 0px;
+}
+
+.card-name {
+    color: #071E22;
+    font-family: 'Playfair', sans-serif;
+    font-style: italic; 
+    font-weight: 600;
+}
+
+.card-button {
+    background: #1D7874;
+    color: #FFFFFF;
+    border: none;
+    width: 100px;
+    height: 26px;
+
+    margin: 0px 0px 0px 0px;
+
+    cursor: pointer;
+}
